@@ -654,18 +654,6 @@ Mohamed = Administrative(
     3500,
     ["Maintaining security", "inspecting visitors"],
 )
-Hady = Administrative(
-    "Hady",
-    25,
-    "Egypt",
-    "01127014781",
-    3.5,
-    "Security",
-    "22/10/2022",
-    "Male",
-    3500,
-    ["Maintaining security", "inspecting visitors"],
-)
 Ahmed = Teacher(
     "Ahmed",
     26,
